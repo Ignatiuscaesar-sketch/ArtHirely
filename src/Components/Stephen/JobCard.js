@@ -1,6 +1,11 @@
-import React from "react";
+import React, {useState, useEffect} from "react";
+import "./index.css";
 
 function JobCard() {
+
+
+
+  
   return (
     <>
       <div className="main-button-container">
@@ -8,7 +13,7 @@ function JobCard() {
         <div class="button-designs first-section">
           <div>
             <button class="button-designs third-button" id="freelance">
-              Freelance
+              Freelance {totalFreelanceJobs}
             </button>
           </div>
           <div>
@@ -27,7 +32,7 @@ function JobCard() {
         <div className="button-designs lower-section">
           <div>
             <h6 className="button-designs" id="freelance-jobs">
-              <span>300</span> Freelance Jobs
+              <span>{totalFreelanceJobs} Freelance Jobs </span>
             </h6>
           </div>
           <div>
@@ -38,7 +43,7 @@ function JobCard() {
         </div>
       </div>
     </>
-  );
+  )
 }
 
 export default JobCard;
