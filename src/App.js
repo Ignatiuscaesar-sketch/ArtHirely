@@ -10,7 +10,6 @@ function Header() {
                     <li>For You</li>
                     <li>Discover</li>
                     <li>Hire</li>
-                    <li> Contacts</li>
                 </ul>
             </nav>
             <div className="actions">
