@@ -10,7 +10,8 @@ function Header() {
                     <li>For You</li>
                     <li>Discover</li>
                     <li>Hire</li>
-                    <li> Contacts</li>
+                    <li>Contacts</li>
+                    <li>About Us</li>
                 </ul>
             </nav>
             <div className="actions">
