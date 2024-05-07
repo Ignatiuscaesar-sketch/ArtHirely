@@ -12,6 +12,7 @@ function Header() {
                     <li>Hire</li>
                     <li>Contacts</li>
                     <li>About Us</li>
+                    <li>Welcome</li>
                 </ul>
             </nav>
             <div className="actions">
