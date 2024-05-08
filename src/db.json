@@ -1,0 +1,10 @@
+{
+    "applicant":[{
+        "Name": "Stephen Onyango",
+        "AcademicQualification": "e.target.qualitifaction.value",
+        "experience": "e.target.work_experience.value",
+        "location": "e.target.location.value",
+        "certification": "e.target.certifications.value",
+       " description": "e.target.short_description.value"
+}]
+    }
