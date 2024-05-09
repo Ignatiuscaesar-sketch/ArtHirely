@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./index.css";
-import JobPost from "./JobPost";
+// import JobPost from "./JobPost";
 
 function JobCard() {
   // Dummy data as I wait for public API to be fetched
@@ -26,7 +26,7 @@ function JobCard() {
     const jobType = e.target.id; 
     setFilteredJobs(jobs.filter(job => job.type === jobType));
     e.target.style.fontWeight = "bold"
-    e.target.parentNode.style.borderBottom = "2px solid black"
+    e.target.parentNode.style.transition = "width 0.4s ease, left 0.4s ease"
   }
 
 // CRUD OPERATION
@@ -95,7 +95,7 @@ const options = {
                 <li key={job.id}>{job.title}</li>
               ))}
             </ul>
-            <JobPost />
+            
     </>
   );
 }
