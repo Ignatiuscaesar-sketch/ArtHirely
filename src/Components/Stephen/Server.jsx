@@ -2,11 +2,47 @@ import React from 'react'
 import "./index.css";
 
 function Server() {
+
+function handleSubmit(e){
+  e.preventDefault()
+
+  const jobObject ={
+    // id: e.target.id.value,
+    time: e.target.time.value,
+    description: e.target.description.value,
+    cost: e.target.cost.value,
+    due_date: e.target.dueDate.value,
+    stack: e.target.requiredStack.value,
+    company: e.target.companyName.value,
+    location: e.target.location.value,
+  }
+
+  // console.log(jobObject)
+
+  fetch("http://localhost:3000/jobs", {
+    method: "POST",
+    header: {
+      "content-type": "application/json"
+    },
+    body: JSON.stringify(jobObject)
+  })
+  .then(res => res.json())
+  .then(jobs => console.log(jobs))
+
+  e.target.reset()
+}
+
+// function filteredJobs(){
+//     Freelance
+//     Full-Time
+// }
+  
+
   return (
     <div>
-        <form class = "formContainer">
-            <label for="id">ID</label><br/>
-            <input type="text" id="id" name="id"></input><br/>
+        <form class = "formContainer" onSubmit = {handleSubmit}>
+            {/* <label for="id">ID</label><br/>
+            <input type="text" id="id" name="id"></input><br/> */}
             <label for="time">Time</label><br/>
             <input type="text" id="time" name="time"></input><br/>
             <label for="description">Description</label><br/>
