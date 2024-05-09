@@ -36,26 +36,26 @@ function handleSubmit(e){
 //     Freelance
 //     Full-Time
 // }
-  
 
+  
   return (
     <div>
-        <form class = "formContainer" onSubmit = {handleSubmit}>
+        <form className = "formContainer" onSubmit = {handleSubmit}>
             {/* <label for="id">ID</label><br/>
             <input type="text" id="id" name="id"></input><br/> */}
-            <label for="time">Time</label><br/>
+            <label htmlFor="time">Time</label><br/>
             <input type="text" id="time" name="time"></input><br/>
-            <label for="description">Description</label><br/>
+            <label htmlFor="description">Description</label><br/>
             <input type="text" id="description" name="description"></input><br/>
-            <label for="cost">Cost</label><br/>
+            <label htmlFor="cost">Cost</label><br/>
             <input type="text" id="cost" name="cost"></input><br/>
-            <label for="due date">Due Date</label><br/>
+            <label htmlFor="due date">Due Date</label><br/>
             <input type="text" id="dueDate" name="dueDate"></input><br/>
-            <label for="required stack">Required Stack</label><br/>
+            <label htmlFor="required stack">Required Stack</label><br/>
             <input type="text" id="requiredStack" name="requredStack"></input><br/>
-            <label for="companyName">Company Name</label><br/>
+            <label htmlFor="companyName">Company Name</label><br/>
             <input type="text" id="companyName" name="companyName"></input><br/>
-            <label for="location">Location</label><br/>
+            <label htmlFor="location">Location</label><br/>
             <input type="text" id="location" name="location"></input><br/>
             <button id= "text" type="submit">submit</button><br/>
         </form>

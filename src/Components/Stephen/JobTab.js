@@ -1,74 +1,58 @@
 import React, { useState, useEffect } from "react";
 import "./index.css";
+import Server from "./Server"
+
 // import JobPost from "./JobPost";
 
 function JobCard() {
   // Dummy data as I wait for public API to be fetched
-  const [jobs, setJobs] = useState([
-    { id: 1, title: 'Web Developer', type: 'Freelance' },
-    { id: 2, title: 'Graphic Designer', type: 'Full-Time' },
-    { id: 3, title: 'Content Writer', type: 'Freelance' },
-    { id: 4, title: 'Project Manager', type: 'Full-Time' },
-    { id: 5, title: 'Content Writer', type: 'Freelance' }
-  ]);
+  const [jobs, setJobs] = useState([]);
   const [filteredJobs, setFilteredJobs] = useState([]);
-  const [freelanceCount, setFreelanceCount] = useState(0);
   const [fullTimeCount, setFullTimeCount] = useState(0);
+  const [partTimeCount, setPartTimeCount] = useState(0);
+  const [intershipCount, setInternshipCount] = useState(0);
 
-  useEffect(() => {
-    // Calculation of the total jobs in each category
-    setFreelanceCount(jobs.filter(job => job.type === 'Freelance').length);
-    setFullTimeCount(jobs.filter(job => job.type === 'Full-Time').length);
-  }, [jobs]);
-
-  //A callback function that triggers the filters
-  function handleFilter(e) {
-    const jobType = e.target.id; 
-    setFilteredJobs(jobs.filter(job => job.type === jobType));
-    e.target.style.fontWeight = "bold"
-    e.target.parentNode.style.transition = "width 0.4s ease, left 0.4s ease"
-  }
-
+  
 // CRUD OPERATION
+useState(()=>{
+fetch("http://localhost:3000/jobs")
+.then(res => res.json())
+.then(jobs => setJobs(jobs))
+}, jobs.id)
 
-      
-const url = 'https://jsearch.p.rapidapi.com/search?query=Python%20developer%20in%20Texas%2C%20USA&page=1&num_pages=1';
-      
-const options = {
-    method: 'GET',
-    headers: { 
-      'X-RapidAPI-Key': '622bf7f3fbmsh256faeb70b8923ep178db6jsn8367f8743c1f',
-      'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
-          }
-        };
+useEffect(() => {
+  // Calculation of the total jobs in each category
+  setFullTimeCount(jobs.filter(job => job.time === 'Full-time').length);
+  setPartTimeCount(jobs.filter(job => job.time === 'Part-time').length);
+  setInternshipCount(jobs.filter(job => job.time === 'Internship').length);
+});
 
-        useEffect(()=>{
-          fetch(url, options)
-          .then(response => response.json())
-          .then(data => console.log(data))
-          .catch(error => console.error(error));
-        }, [])
-        
-     
-        
+//A callback function that triggers the filters
+function handleFilter(e){
+  const jobType = e.target.id; 
+  setFilteredJobs(jobs.filter(job => job.type === jobType));
+  e.target.style.fontWeight = "bold"
+  // e.target.parentNode.style.transition = "width 0.4s ease, left 0.4s ease"
+}
+
 
   return (
     <>
       <div className="main-button-container">
         <div className="button-designs first-section">
           <div>
-            <button className="button-designs third-button" id="Freelance" onClick={handleFilter}>
-              Freelance ({freelanceCount})
-            </button>
-          </div>
-          <div>
-            <button className="button-designs second-button" id="Full-Time" onClick={handleFilter}>
+            <button className="button-designs third-button" id="fulltime" onClick={handleFilter}>
               Full-Time ({fullTimeCount})
             </button>
           </div>
           <div>
+            <button className="button-designs second-button" id="Part-time" onClick={handleFilter}>
+              Part-Time ({partTimeCount})
+            </button>
+          </div>
+          <div>
             <button className="button-designs third-button" id="Creatives-for-hire" onClick={handleFilter}>
-              Creatives for hire
+              Internship ({intershipCount})
             </button>
           </div>
         </div>
@@ -92,10 +76,11 @@ const options = {
       {/* Display filtered jobs */}
       <ul>
               {filteredJobs.map(job => (
-                <li key={job.id}>{job.title}</li>
+                <li key={job.id}>{job.company}</li>
               ))}
             </ul>
-            
+
+            <Server />    
     </>
   );
 }

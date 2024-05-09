@@ -47,37 +47,3 @@ button{
     
 }
 
-/* Form styles */
-
-input[type = text], select{
-    width: 100%;
-    margin: 8px, 0;
-    display: inline-block;
-    box-sizing: border-box;
-    border-radius: 4px;
-    padding: 12px, 20px;
-    border: 1px, 1px;
-}
-
-#text{
-    width: 100%;
-    margin: 8px, 0;
-    display: inline-block;
-    box-sizing: border-box;
-    border-radius: 4px;
-    padding: 14px, 20px;
-    border: none;
-    color:white;
-    background-color: green;
-    cursor: pointer;
-}
-
-#text:hover{
-    background-color: rgb(179, 177, 177);
-}
-
-div{
-    padding:20px;
-    background-color: rgb(179, 177, 177);
-    border-radius: 5px;
-}
