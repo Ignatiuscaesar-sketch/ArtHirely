@@ -1,24 +1,12 @@
 import React from 'react';
-import './Header.css'; // Assume CSS is already written
+import Main from './Components/FardosaGedi/Main';
 
-function Header() {
+function App() {
     return (
-        <header>
-            <div className="logo">ArtHirely</div>
-            <nav>
-                <ul>
-                    <li>For You</li>
-                    <li>Discover</li>
-                    <li>Hire</li>
-                    <li> Contacts</li>
-                </ul>
-            </nav>
-            <div className="actions">
-                <button className="login">Log In</button>
-                <button className="signup">Sign Up</button>
-            </div>
-        </header>
+      <div>
+        <Main />
+      </div>
     );
 }
 
-export default Header;
+export default App;
