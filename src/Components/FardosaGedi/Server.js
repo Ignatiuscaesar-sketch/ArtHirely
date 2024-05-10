@@ -56,7 +56,7 @@ function Server() {
 
     return (
       <form className="formContainer" onSubmit={handleJobSubmit}>
-        <h2>Job Posting Form</h2>
+        <h2>Job Posting</h2>
         <label>
             Time:
             <input type="text" name="time" value={formData.time} onChange={handleChange} required />
