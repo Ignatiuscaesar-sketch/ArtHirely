@@ -62,4 +62,4 @@ function handleSubmit(e){
     </div>
   )
 }
-export default Server;
+export default Server
