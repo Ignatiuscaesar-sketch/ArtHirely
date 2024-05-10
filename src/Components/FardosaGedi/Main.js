@@ -1,5 +1,6 @@
-import React, { useState, useEffect} from 'react';
+/// Moved from main.js had issues with public API to server.js with our self-hosted db.json.
 
+//import React, { useState, useEffect} from 'react';
 // Function to fetch data from jsearch API
 //async function fetchData() {
     //const url = "https://jsearch.p.rapidapi.com/search";

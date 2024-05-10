@@ -1,7 +1,6 @@
 import React from 'react';
-import Main from './Components/FardosaGedi/Main';
-import Server from './Components/Ignatius-Caesar/FardosaGedi/Server';
-
+import Server from './Components/FardosaGedi/Server';
+import './index.css';
 function App() {
     return (
         <div className="App">
