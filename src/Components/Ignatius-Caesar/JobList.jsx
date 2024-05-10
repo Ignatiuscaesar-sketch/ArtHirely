@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import './index.css'; // Ensure you have this CSS file in the same directory
 
-const JobList = () => {
+const JobList = (prop) => {
     const [jobs, setJobs] = useState([]);
     const [loading, setLoading] = useState(true);
+    
 
     // Mock data to simulate fetched jobs
     useEffect(() => {
@@ -40,9 +41,9 @@ const JobList = () => {
                         <td>{job.time}</td>
                         <td>{job.description}</td>
                         <td>{job.cost}</td>
-                        <td>{job.dueDate}</td>
-                        <td>{job.requiredStack}</td>
-                        <td>{job.companyName}</td>
+                        <td>{job.due_date}</td>
+                        <td>{job.stack}</td>
+                        <td>{job.company}</td>
                         <td>{job.location}</td>
                     </tr>
                 ))}

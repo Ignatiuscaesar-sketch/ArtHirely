@@ -1,17 +1,17 @@
 import React, { useState, useEffect } from "react";
 import "./index.css";
-import Server from "./Server"
+import JobList from "../Ignatius-Caesar/JobList";
+// import Server from "./Server"
 
 // import JobPost from "./JobPost";
 
-function JobCard() {
+function JobTab() {
   // Dummy data as I wait for public API to be fetched
   const [jobs, setJobs] = useState([]);
   const [filteredJobs, setFilteredJobs] = useState([]);
   const [fullTimeCount, setFullTimeCount] = useState(0);
   const [partTimeCount, setPartTimeCount] = useState(0);
   const [intershipCount, setInternshipCount] = useState(0);
-
   
 // CRUD OPERATION
 useState(()=>{
@@ -29,19 +29,17 @@ useEffect(() => {
 
 //A callback function that triggers the filters
 function handleFilter(e){
-  const jobType = e.target.id; 
-  setFilteredJobs(jobs.filter(job => job.type === jobType));
+  const jobType = e.target.id;
+  setFilteredJobs(jobs.filter(job => job.time === jobType));
   e.target.style.fontWeight = "bold"
   // e.target.parentNode.style.transition = "width 0.4s ease, left 0.4s ease"
 }
-
-
   return (
     <>
       <div className="main-button-container">
         <div className="button-designs first-section">
           <div>
-            <button className="button-designs third-button" id="fulltime" onClick={handleFilter}>
+            <button className="button-designs third-button" id="Full-time" onClick={handleFilter}>
               Full-Time ({fullTimeCount})
             </button>
           </div>
@@ -51,7 +49,7 @@ function handleFilter(e){
             </button>
           </div>
           <div>
-            <button className="button-designs third-button" id="Creatives-for-hire" onClick={handleFilter}>
+            <button className="button-designs third-button" id="Internship" onClick={handleFilter}>
               Internship ({intershipCount})
             </button>
           </div>
@@ -74,15 +72,16 @@ function handleFilter(e){
 
 
       {/* Display filtered jobs */}
+      <JobList jobs = {jobs}/>
       <ul>
               {filteredJobs.map(job => (
                 <li key={job.id}>{job.company}</li>
               ))}
-            </ul>
+      </ul>
 
-            <Server />    
+            {/* <Server />     */}
     </>
   );
 }
 
-export default JobCard;
+export default JobTab;

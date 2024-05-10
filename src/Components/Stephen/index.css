@@ -47,3 +47,10 @@ button{
     
 }
 
+
+/* form styling */
+input [type = text], select{
+    width:100%;
+    
+}
+
