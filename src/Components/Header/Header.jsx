@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link ,useLocation} from 'react-router-dom';
 import LoginForm from './LoginForm';
-import SignupForm from '../SignupForm';
+import SignupForm from './SignupForm';
 import './Header.css';
 
 function Header() {
@@ -12,14 +12,18 @@ function Header() {
   return (
     <div className='header'>
       <div className="header-left">
-        <h2>ArtHirely</h2>
+        <h2>
+        <span style={{ color: 'black' }}> Art</span>
+        <span style={{ color: 'blue' }}>Hirely</span>
+        </h2>
       </div>
 
       <div className="header-center">
         <ul>
           <li><Link to="/">Home</Link></li>
           <li><Link to="/about">About</Link></li>
-          <li><a href="#">Jobs</a></li>
+          <li><Link to="/jobs">Jobs</Link></li>
+
         </ul>
       </div>
 

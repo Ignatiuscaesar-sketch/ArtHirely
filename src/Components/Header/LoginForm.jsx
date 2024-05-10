@@ -29,7 +29,7 @@ function LoginForm() {
     if (formData.email && formData.password){
     console.log('Login form submitted:', formData);
     alert('Login successful!')
-    navigate('/about');
+    navigate('/jobs');
     }else{
         alert('Please enter Email and Password!')
     }

@@ -32,7 +32,7 @@ function SignupForm() {
     console.log('Signup form submitted:', formData);
     alert('Signup successeful!')
     // Redirect to the "About" page after signup
-    navigate('/about');
+    navigate('/jobs');
     }else{
         alert('please enter email and password')
      }
