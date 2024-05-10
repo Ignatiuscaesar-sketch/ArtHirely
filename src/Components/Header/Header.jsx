@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link ,useLocation} from 'react-router-dom';
 import LoginForm from './LoginForm';
-import SignupForm from '../SignupForm';
+import SignupForm from './SignupForm';
 import './Header.css';
 
 function Header() {
