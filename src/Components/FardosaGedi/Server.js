@@ -1,15 +1,50 @@
 import React, { useState } from 'react';
+import './index.css';
 
-function JobForm() {
+function Server() {
+  function handleSubmit(e){
+    e.preventDefault();
+  }
+
+  function JobForm() {
     const [formData, setFormData] = useState({
         time: '',
         description: '',
         cost: '',
         dueDate: '',
-        requiredStack: '',
+        stack: '',
         companyName: '',
         location: ''
     });
+
+    const handleJobSubmit = (e) => {
+        e.preventDefault();
+        console.log(formData);
+        alert('Form submitted! Successful');
+
+        const jobObject = {
+          time: formData.time,
+          description: formData.description,
+          cost: formData.cost,
+          dueDate: formData.dueDate,
+          stack: formData.stack,
+          companyName: formData.companyName,
+          location: formData.location
+        };
+
+        fetch("http://localhost:4000/jobs", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(jobObject)
+        })
+        .then(res => res.json())
+        .then(jobs => {
+          console.log(jobs);
+          e.target.reset(); 
+        });
+    };
 
     const handleChange = (e) => {
         const { name, value } = e.target;
@@ -19,46 +54,43 @@ function JobForm() {
         }));
     };
 
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        console.log(formData);
-        alert('Form submitted! Successfull');
-    };
-
     return (
-      <form className = "formContainer" onSubmit = {handleSubmit}>
-            <h2>Job Posting Form</h2>
-            <label>
-                Time:
-                <input type="text" name="time" value={formData.time} onChange={handleChange} required />
-            </label><br />
-            <label>
-                Description:
-                <input type="text" name="description" value={formData.description} onChange={handleChange} required />
-            </label><br />
-            <label>
-                Cost:
-                <input type="text" name="cost" value={formData.cost} onChange={handleChange} required />
-            </label><br />
-            <label>
-                Due Date:
-                <input type="text" name="dueDate" value={formData.dueDate} onChange={handleChange} required />
-            </label><br />
-            <label>
-                Required Stack:
-                <input type="text" name="requiredStack" value={formData.requiredStack} onChange={handleChange} required />
-            </label><br />
-            <label>
-                Company Name:
-                <input type="text" name="companyName" value={formData.companyName} onChange={handleChange} required />
-            </label><br />
-            <label>
-                Location:
-                <input type="text" name="location" value={formData.location} onChange={handleChange} required />
-            </label><br />
-            <button type="submit">Submit</button>
-        </form>
+      <form className="formContainer" onSubmit={handleJobSubmit}>
+        <h2>Job Posting Form</h2>
+        <label>
+            Time:
+            <input type="text" name="time" value={formData.time} onChange={handleChange} required />
+        </label><br />
+        <label>
+            Description:
+            <input type="text" name="description" value={formData.description} onChange={handleChange} required />
+        </label><br />
+        <label>
+            Cost:
+            <input type="text" name="cost" value={formData.cost} onChange={handleChange} required />
+        </label><br />
+        <label>
+            Due Date:
+            <input type="text" name="dueDate" value={formData.dueDate} onChange={handleChange} required />
+        </label><br />
+        <label>
+            Stack:
+            <input type="text" name="stack" value={formData.stack} onChange={handleChange} required />
+        </label><br />
+        <label>
+            Company Name:
+            <input type="text" name="companyName" value={formData.companyName} onChange={handleChange} required />
+        </label><br />
+        <label>
+            Location:
+            <input type="text" name="location" value={formData.location} onChange={handleChange} required />
+        </label><br />
+        <button type="submit">Submit</button>
+      </form>
     );
+  }
+
+  return <JobForm />;
 }
 
-export default JobForm;
+export default Server;

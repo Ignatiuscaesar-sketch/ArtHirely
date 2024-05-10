@@ -1,5 +1,27 @@
 {
-    "jobs": [
-        {}
-    ]
+  "jobs": [
+    {
+      "id": "465a"
+    },
+    {
+      "id": "7e47",
+      "time": "22:30",
+      "description": "Python Developer",
+      "cost": "$50 hr",
+      "dueDate": "22 May 2024",
+      "stack": "Backend Developer",
+      "companyName": "Safaricom",
+      "location": "Kenya"
+    },
+    {
+      "id": "b208",
+      "time": "22:30",
+      "description": "Software Engineer",
+      "cost": "$50 hr",
+      "dueDate": "22 June 2024",
+      "stack": "Backend Developer",
+      "companyName": "Amazon",
+      "location": "USA"
+    }
+  ]
 }
