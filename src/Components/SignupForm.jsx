@@ -21,6 +21,13 @@ function SignupForm() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    if (formData.password.length < 4) {
+      alert('Password must be at least 4 characters long.');
+      return;
+    }else if (formData.password.length > 8) {
+      alert('Password must not exceed 8 characters.');
+      return;
+    }
     if (formData.email && formData.password){
     console.log('Signup form submitted:', formData);
     alert('Signup successeful!')
