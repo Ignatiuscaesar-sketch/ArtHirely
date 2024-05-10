@@ -13,6 +13,7 @@ function App() {
                     <li>Contacts</li>
                     <li>About Us</li>
                     <li>Welcome</li>
+                    <li>Hello</li>
                 </ul>
             </nav>
             <div className="actions">
