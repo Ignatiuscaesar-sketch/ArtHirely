@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-import React from 'react';
-import Server from './Components/FardosaGedi/Server';
-import './index.css';
-function App() {
-    return (
-        <div className="App">
-        <Server />
-        </div>
-        );
-     }
-        
-   
-    
-=======
-
-
 import React from 'react';
 import Header from './Components/Header/Header';
 import { BrowserRouter as Router,Routes, Route} from 'react-router-dom';
@@ -23,10 +6,12 @@ import Home from './Components/Header/Home';
 import SignupForm from './Components/Header/SignupForm';
 import LoginForm from './Components/Header/LoginForm';
 import JobList from './Components/Ignatius-Caesar/JobList';
+import Server from './Components/FardosaGedi/Server';
 function App() {
     return (
         <Router>
             <div className='App'>
+                <Server />
                <Header />
                 <Routes>
                     <Route path="/about" element={<About />} />
@@ -42,5 +27,4 @@ function App() {
     );
 }
 
->>>>>>> cda18275c64b0821937232597971fb99c406c2f6
 export default App;

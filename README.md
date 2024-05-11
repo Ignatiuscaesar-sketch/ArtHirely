@@ -6,8 +6,8 @@ Welcome to ArtHirely, a ReactJS-based application designed specifically for arti
 
 - **Header**:  This central hub is your gateway to everything our site offers. Click here to access the main page where you can get a quick snapshot of new features, updates, and highlighted job opportunities.
 - **Job Listings**: Access to a wide range of job opportunities specifically tailored for artists and creatives.
-- **Customizable Search**: Users can search for jobs based on media, experience level, location, and desired job type (e.g., freelance, part-time, full-time).
-- **Job Tap**: This feature keeps you connected with opportunities tailored to your preferences and professional profile.
+- **Customizable Search**: Users can search for jobs based on time, company name, stack, due date,description ,location, and desired job type (e.g., freelance, part-time, full-time).
+- **JobTab**: This feature keeps you connected with opportunities tailored to your preferences and professional profile.
 - **Post A Job**:  Ideal for employers seeking talented creatives. With an intuitive interface, posting a job is straightforward—just enter the details about the position, your company, and preferred qualifications to reach a wide audience of skilled artists and designers.
 - **Responsive Design**: Optimized for both desktop and mobile use to ensure accessibility and ease of use from any device.
 
