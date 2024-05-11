@@ -1,0 +1,56 @@
+
+/* .main-button-container{
+    background-color: gray;
+} */
+
+.first-section {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 30px;
+    margin-right: 30px;
+    gap: 10px;
+    margin-top: 10px;
+}
+button{
+    background-color: white;
+}
+
+#creatives-for-hire{
+    margin-left: 40px;
+}
+
+.lower-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+
+    
+}
+
+#blue-button{
+    background-color: blue;
+    color: white;
+    padding: 5 px, 5px;
+
+    
+}
+
+#filtered-jobs{
+    color:brown;
+    
+}
+
+.button-designs{
+    border: none;
+    
+}
+
+
+/* form styling */
+input [type = text], select{
+    width:100%;
+    
+}
+
