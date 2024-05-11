@@ -10,6 +10,7 @@ import LoginForm from './Components/Header/LoginForm';
 import JobList from './Components/Ignatius-Caesar/JobList';
 function App() {
     return (
+
         <Router>
             <div className='App'>
                <Header />
@@ -19,8 +20,8 @@ function App() {
                     <Route path="/signup" element={<SignupForm />} />
                     <Route path="/login" element={<LoginForm />} />
                     <Route path='/jobs' element={<JobList/>
-}/>
                 </Routes>
+
             </div>
         </Router>
 
