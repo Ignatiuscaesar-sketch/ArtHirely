@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import './index.css'; // Ensure you have this CSS file in the same directory
+import './index.css'; 
 
 const JobList = () => {
     const [jobs, setJobs] = useState([]);
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('/db.json')  // Adjust the path if your db.json is located elsewhere
+        fetch('./db.json')  
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
@@ -14,7 +14,7 @@ const JobList = () => {
                 return response.json();
             })
             .then(data => {
-                setJobs(data.jobs);  // Assuming your JSON has a top-level key 'jobs'
+                setJobs(data.jobs);  
                 setLoading(false);
             })
             .catch(error => {
