@@ -1,42 +1,86 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import "./index.css";
+import JobList from "../Ignatius-Caesar/JobList";
+
+// import Server from "./Server"
+
+// import JobPost from "./JobPost";
 
 function JobTab() {
+  // Dummy data as I wait for public API to be fetched
+  const [jobs, setJobs] = useState([]);
+  const [filteredJobs, setFilteredJobs] = useState([]);
+  const [fullTimeCount, setFullTimeCount] = useState(0);
+  const [partTimeCount, setPartTimeCount] = useState(0);
+  const [intershipCount, setInternshipCount] = useState(0);
+  
+// CRUD OPERATION
+useState(()=>{
+fetch("http://localhost:3000/jobs")
+.then(res => res.json())
+.then(jobs => setJobs(jobs))
+}, jobs.id)
+
+useEffect(() => {
+  // Calculation of the total jobs in each category
+  setFullTimeCount(jobs.filter(job => job.time === 'Full-time').length);
+  setPartTimeCount(jobs.filter(job => job.time === 'Part-time').length);
+  setInternshipCount(jobs.filter(job => job.time === 'Internship').length);
+});
+
+//A callback function that triggers the filters
+function handleFilter(e){
+  const jobType = e.target.id;
+  setFilteredJobs(jobs.filter(job => job.time === jobType));
+  e.target.style.fontWeight = "bold"
+  // e.target.parentNode.style.transition = "width 0.4s ease, left 0.4s ease"
+}
   return (
     <>
       <div className="main-button-container">
-        {/* top buttons start here */}
-        <div class="button-designs first-section">
+        <div className="button-designs first-section">
           <div>
-            <button class="button-designs third-button" id="freelance">
-              Freelance
+            <button className="button-designs general_design third-button" id="Full-time" onClick={handleFilter}>
+              Full-Time ({fullTimeCount})
             </button>
           </div>
           <div>
-            <button class="button-designs second-button" id="Full-Time">
-              Full-Time
+            <button className="button-designs general_design second-button" id="Part-time" onClick={handleFilter}>
+              Part-Time ({partTimeCount})
             </button>
           </div>
           <div>
-            <button class="button-designs third-button" id="creatives-for-hire">
-              Creatives for hire
+            <button className="button-designs general_design third-button" id="Internship" onClick={handleFilter}>
+              Internship ({intershipCount})
             </button>
           </div>
         </div>
-        {/* lower buttons start here */}
 
         <div className="button-designs lower-section">
           <div>
-            <h6 className="button-designs" id="freelance-jobs">
-              <span>300</span> Freelance Jobs
+            <h6 className="button-designs" id="filtered-jobs">
+              <span>{filteredJobs.length}</span> Jobs
             </h6>
+            
           </div>
           <div>
-            <button className="button-designs" id="blue-button">
+            <button className="button-designs general_design" id="blue-button">
               Post Jobs
             </button>
           </div>
         </div>
       </div>
+
+
+      {/* Display filtered jobs */}
+      <JobList jobs = {jobs}/>
+      <ul>
+              {filteredJobs.map(job => (
+                <li key={job.id}>{job.company}</li>
+              ))}
+      </ul>
+
+            {/* <Server />     */}
     </>
   );
 }

@@ -1,1 +1,5002 @@
-{}
+{
+  "jobs": [{
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-17",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "cH1za"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-08",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "AQNEc"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-10-28",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "P6OfH"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-26",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "qab9u"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-03-04",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "mkC1q"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-07-10",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "suA0K"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-28",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "5nyKe"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-02-07",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "aurYZ"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-07-06",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "wLxdb"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-17",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "OZErd"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-04-12",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "w8piZ"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-20",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "xDsAM"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-10-08",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "aK9zM"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-11-13",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "6vjTN"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-07-26",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "Pcdf9"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-03-15",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "EivA4"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-07",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "NtWag"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-06-28",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "fWoAw"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-19",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "BPDWy"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-05-30",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "hb5fK"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-15",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "Dg9jE"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-12-08",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "RUF1P"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-20",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "Y1fGB"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-11",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "9TOrr"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-05-20",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "lma4K"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-10-02",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "QBSyK"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-21",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "S0aC2"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-26",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "W2VHW"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-16",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "kecwo"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-06-23",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "2dcsb"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-02-22",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "g5ODZ"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-06-09",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "aHE6r"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-12",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "6TbTW"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-09-11",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "qYruZ"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-29",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "unqCa"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-24",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "WnGRd"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-31",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "jrb5z"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-11",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "7zF1J"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-06",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "zC548"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-06",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "Uuz6X"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-05-10",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "eEDdT"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-05-03",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "GhlAE"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-07-02",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "0B5e2"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-07",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "PVnLQ"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-08-25",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "xezrK"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-14",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "RhrOc"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-04-10",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "odjUg"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-28",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "F2UId"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-15",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "RAYvH"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-29",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "y3XNN"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-01-20",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "2HGNr"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-01",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "P3xfc"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-08",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "xGnrS"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-02",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "5Qziz"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-04-27",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "d3pj6"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-03-29",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "7sbZO"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-02-24",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "DLLzA"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-17",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "VNjKQ"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-07-29",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "kofTC"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-02",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "swDhi"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-02",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "uXKM0"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-05-14",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "EwCpM"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-24",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "5g9Sk"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-03",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "4IVmH"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-06-19",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "pVt0h"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-17",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "7KW5r"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-06-11",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "QXJwn"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-04-15",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "Jho46"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-11",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "x9RlP"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-05-08",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "lgH0E"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-01",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "h7k5m"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-03-22",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "qMzc3"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-14",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "yXeJW"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-22",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "RgXNI"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-04-26",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "HI5v5"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-04",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "clAOl"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-12-20",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "oQGRP"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-03",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "br61F"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-13",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "v2RrC"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-07-21",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "UXZDy"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-20",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "XNhDF"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-11-14",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "Rl3dX"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-07-20",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "XydWk"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-05-10",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "R4BLv"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-05-22",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "SD1Bi"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-05",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "ZzR4B"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-15",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "AQqu1"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-22",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "nN3Pa"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-13",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "af4c2"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-07-09",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "RUUcc"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-09-13",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "YvLp7"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-04-14",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "laN2g"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-12",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "6b2Sv"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-06-01",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "Ej2I2"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-04",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "F0AKh"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-09-16",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "Q5Vte"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-08-22",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "TRrOT"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-01",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "qvXq2"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-06-24",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "mxrWa"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-28",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "V2LVH"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-08",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "tDyiY"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-14",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "aaDOL"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-26",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "KOate"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-07-26",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "FgNhO"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-07-12",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "yVPI3"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-06-22",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "9E3QA"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-11",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "bOXu3"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-02-12",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "hreeu"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-04",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "96ItS"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-01",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "NPvpE"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-28",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "3Fi1o"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-24",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "Oxu8C"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-22",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "MT14m"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-15",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "4Z3Ep"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-04-23",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "PPoOf"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-05-11",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "HGxAk"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-07",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "zKLAF"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-04-09",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "Uvw8i"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-30",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "iO4ov"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-08",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "jBTvr"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-24",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "MaIHo"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-06-02",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "6hvVF"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-08-19",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "SdouK"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-22",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "Rlcwq"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-05-07",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "imRTR"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-01-17",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "xRn35"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-02-19",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "iJ4vs"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-06",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "T93iF"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-06",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "jCp2V"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-04-05",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "j1Jrh"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-05-21",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "Xae32"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-01",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "sPFUW"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-16",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "fKQUC"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-06-12",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "ou7Nv"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-10-03",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "ztBfG"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-07",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "HuUa7"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-26",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "KjuXz"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-25",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "D2lnb"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-28",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "8lR2B"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-03-14",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "DPVGb"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-20",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "wtnEa"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-04-19",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "FvwbR"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-23",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "MdbRT"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-28",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "Kyak9"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-04-29",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "TzTyE"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-13",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "sgZyV"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-08",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "tnATc"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-03-15",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "STMEA"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-07-22",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "WmBjS"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-16",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "1iMcD"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-10-30",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "m0Y6d"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-25",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "PSOaQ"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-09-15",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "qCDDJ"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-07-09",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "F5Ut7"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-24",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "qParY"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-12-21",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "UTchn"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-01-15",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "0UKA1"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-04-02",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "h1hGQ"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-11-17",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "qi7bY"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-16",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "StoWs"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-28",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "6O6Yo"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-07-06",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "d87ay"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-16",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "bpaxP"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-11-25",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "fCTfy"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-04-28",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "BIIpu"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-08",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "TF7EB"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-11",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "Eqcvc"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-08",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "ckuit"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-26",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "OBcZz"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-06-10",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "osroi"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-10-21",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "8sOPx"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-30",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "sqK6a"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-02-09",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "k4IXV"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-05-27",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "MSNqR"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-06-26",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "gNZtc"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-03-10",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "kKY23"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-30",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "JHOCa"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-02-13",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "Ajrf0"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-07-04",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "TQLl5"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-03-28",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "cgPKI"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-06-19",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "7hlta"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-05-13",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "t3XpT"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-06-18",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "Zn56f"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-06",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "Q5u6g"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-04",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "mchlc"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-08-01",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "NEJ2e"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-14",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "kMbn0"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-10-09",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "zaeBG"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-30",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "SiXtH"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-28",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "qyefL"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-19",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "Zy7fL"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-13",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "z20gJ"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-10-06",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "fTPdS"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-08",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "eAuAO"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-06-07",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "iIR0P"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-23",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "lZH3V"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-02-28",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "13Ijb"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-03-17",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "rUSOY"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-24",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "TAOAD"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-08",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "Cyhbb"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-13",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "N3VrI"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-05-20",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "N5d8j"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-08-26",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "hvqjA"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-08",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "4fWVS"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-27",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "e1YI3"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-10-25",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "VO0IX"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-23",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "bPpTk"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-24",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "PDeip"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-10-18",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "jak1Y"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-11-10",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "rsT9N"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-04-05",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "i595J"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-05",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "w2l3q"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-05-23",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "qJHYH"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-08-04",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "rpcmJ"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-06",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "ee0Xm"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-01-21",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "mUNwa"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-02-03",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "7ouJL"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-05-22",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "Ho8KS"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-02-02",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "BEeC1"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-15",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "2Nfus"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-06-21",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "Jnoy4"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-05-12",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "XPTk3"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-03",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "KYceY"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-11-25",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "Mi0Ix"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-27",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "phvzl"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-01-29",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "UEd5w"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-05-26",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "ZuT6I"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-31",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "oqBwE"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-24",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "sAuPj"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-24",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "H95pC"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-11-03",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "5Ignb"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-21",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "DSTDW"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-03-21",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "TEuEk"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-06-17",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "Ykwwz"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-08-24",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "Jo0z3"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-05-02",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "SZLHG"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-12-02",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "vjIHy"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-06-10",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "TyJA1"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-11-30",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "c3u71"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-02",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "HCWPN"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-02-25",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "op9wZ"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-02",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "d8Sz0"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-08-27",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "QeN6x"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-10-10",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "ary7V"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-16",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "agU1q"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-11",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "Y96uM"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-17",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "wwXaf"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-07",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "kq2Bx"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-04-25",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "v3Yva"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-09-27",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "cp5ty"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-25",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "b0cka"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-11",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "DM4q8"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-03-23",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "xAHrK"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-20",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "ZO79K"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-05-02",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "90QsY"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-07-17",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "Q6JFS"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-08",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "fnozV"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-03",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "70wId"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-30",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "i9MYk"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-06-29",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "LjKpJ"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-29",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "ziYLU"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-04-17",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "q6HC0"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-05-05",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "hj3E5"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-06-10",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "9jskn"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-12-12",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "3IyHL"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-05-24",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "vFikp"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-11",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "CPgbL"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-07-19",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "UBJ3x"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-08-21",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "spNpe"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-09",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "VzVBm"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-03-29",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "CNFc8"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-08",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "1N6U3"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-12-28",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "FAdmP"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-05-20",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "Wca7n"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-08-30",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "yLIUQ"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-15",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "6LmZv"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-01-22",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "ozrVs"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-03-29",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "jxkEX"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-04",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "2d487"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-06-09",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "2k85g"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-16",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "MhNH8"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-19",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "ZR5Im"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-09",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "H0GIL"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-31",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "8CNld"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-30",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "Db426"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-05-08",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "P12TP"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-01",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "Vathj"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-12",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "Zj1Eh"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-04-07",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "0S7mL"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-05",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "CMd4T"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-02-18",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "17EYy"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-11-23",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "AdXBG"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-18",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "CbWXV"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-08-20",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "eWRbz"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-03-24",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "tjLDa"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-01-17",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "HTbyT"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-02-28",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "9PmNR"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-10-06",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "NYUaH"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-19",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "iGFav"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-28",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "6wwoY"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-10",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "I42Ap"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-11",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "Vtr9J"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-16",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "Q1rRa"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-07-20",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "O9lwX"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-01",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "shXjL"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-06-26",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "J21Ws"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-16",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "6zUTl"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-01-02",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "ilk0r"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-09",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "K9kp6"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-07",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "L1WIG"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-03-31",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "R4ruT"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-05-28",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "e91kc"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-01",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "8zs9M"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-25",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "Qz0oI"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-03-03",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "cV1Nm"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-11",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "3dJzz"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-05-18",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "jSpmo"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-04-14",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "1rhzY"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-04-24",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "ApM1o"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-04-12",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "lQU88"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-11-06",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "wmqYA"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-14",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "HPzGk"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-09-23",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "Sk2Jr"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-12-25",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "l0V8r"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-10-10",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "9hE8F"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-27",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "jC7zO"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-07-20",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "HjVDO"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-10-05",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "7eILa"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-08",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "I5JL4"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-17",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "SjpKW"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-10-12",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "XHM5L"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-14",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "4LvDq"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-08-16",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "cf2pX"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-26",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "9dWYA"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-02",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "ZxxN6"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-01",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "m7ngs"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-14",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "fcluo"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-05-21",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "2J0Ov"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-07-28",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "fS2JJ"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-03-19",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "a7Wwp"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-03-19",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "EoT3v"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-22",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "SsYzA"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-06-24",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "JEtrL"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-06",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "XXc4w"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-30",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "GDLtK"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-04-27",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "BRLmr"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-07-11",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "FA9AD"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-02",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "W4VHh"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-08-03",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "4VUN7"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-07-14",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "IeTmQ"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-05-11",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "JKZvV"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-28",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "oCQfD"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-04-06",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "7Weh6"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-12",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "fTtT4"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-12-29",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "gSs9v"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-08-23",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "TL5o6"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-08-06",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "0dd3r"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-04",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "vVYiF"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-08-04",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "VHT7a"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-09",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "IgLE2"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-05-05",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "G3j0W"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-11",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "VoPSJ"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-02-25",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "9iMP7"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-01-21",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "5X6mg"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-20",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "bLmuw"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-09-24",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "l6ktN"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-04-10",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "If59G"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-01-12",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "ixCNk"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-11-23",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "duLhk"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-11",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "L5sGo"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-04-09",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "0asvB"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-06-09",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "LWWAd"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-19",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "vWdVe"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-05-04",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "Jla08"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-05-10",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "MPHIF"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-01",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "Pga09"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-07-27",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "8laqs"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-18",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "lY0NL"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-06-15",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "EQOyj"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-07",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "s6z3M"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-01-02",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "9ChOD"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-29",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "LNc7Z"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-27",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "eL095"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-04-09",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "rMKBs"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-23",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "ahq5L"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-02",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "rzXnN"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-02-15",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "Drw3W"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-09-30",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "091z6"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-09-03",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "jgM46"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-10-09",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "2n50C"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-03-07",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "pLWU3"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-11-05",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "skNZS"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-04",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "BX30S"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-11-06",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "706uI"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-06-19",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "RLgA8"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-19",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "fNIn5"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-22",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "QZzAA"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-03",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "5iszP"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-04-24",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "Jkmxp"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-07-04",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "RWxZZ"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-08-19",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "9UyFj"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-07",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "6NPKz"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-02-14",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "b1io6"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-29",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "X8jXe"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-06",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "7RH2y"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-02-26",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "EfblI"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-05-10",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "UkM4T"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-04",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "aI4mi"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-25",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "g3wbw"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-19",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "hIseO"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-08-23",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "JQ1i7"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-10-02",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "dXsDW"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-17",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "4ZEVK"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-29",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "to2jp"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-27",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "UNnQY"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-03-10",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "I2lf1"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-10-06",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "ZdckI"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-10-23",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "RLLQz"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-02-09",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "AUQBa"
+  },
+  {
+      "nature": "Contract",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-03-06",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "MxOyf"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-09-05",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "2UiqH"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-10",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "9bIRI"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-30",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "Vbws3"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-10-15",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "6Nlc9"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-10-14",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "EKFrw"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-12-07",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "jVBy7"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-06-24",
+      "stack": "JavaScript, React",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "Y0EAS"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-11-04",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "JzIsh"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-07-01",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "nP6Wa"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-20",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "5bbp1"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-09-23",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "dgb2F"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-06-03",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "CykGW"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-12",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "fnKRy"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-09-08",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "lR91I"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-05",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "jJZTK"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-07-08",
+      "stack": "JavaScript, React",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "vX607"
+  },
+  {
+      "nature": "Contract",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-19",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Boston, MA",
+      "id": "0ZBI1"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-11-17",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "f8zZK"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-03",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "VP8jw"
+  },
+  {
+      "nature": "Internship",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-08-13",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Seattle, WA",
+      "id": "lxj7B"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-08-13",
+      "stack": "Python, Django",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "kKZUu"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-02-03",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "1DE2e"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-06-05",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "7G2Iq"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-09",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "CqlL0"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-09-20",
+      "stack": "Python, Django",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "Z0ZY7"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-06-10",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "xbxWE"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-12-22",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "San Francisco, CA",
+      "id": "gIiCe"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-09-01",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "pp3GE"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-02-27",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "NwcJ5"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-25",
+      "stack": "Swift, UIKit",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "tc4VP"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-04-24",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "id": "aAGhK"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-06-04",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "8pKlm"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-05-28",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "7ytES"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-05-21",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "hQpBc"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-06-09",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "AaqAe"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-13",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "4elc6"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-02",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "dCfG2"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-18",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "AqlsU"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2024-11-05",
+      "stack": "JavaScript, React",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "S6Sj7"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-28",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "0Jb5d"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-07-05",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "pFHW5"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-09-15",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "sEqjc"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-07-11",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "3NdTa"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-08",
+      "stack": "Swift, UIKit",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "QjD5l"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-04-27",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "909wX"
+  },
+  {
+      "nature": "Contract",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-02-23",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "bBwEn"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-08-20",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "Ei6Cw"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-03-14",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Seattle, WA",
+      "id": "n9DNa"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-03-16",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "Ebf5U"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-13",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "MsQO6"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-20",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "cCK9Q"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-09-27",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "MaFnu"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-26",
+      "stack": "Python, Django",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "a2TPG"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-01-20",
+      "stack": "Swift, UIKit",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "UeerA"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-08-18",
+      "stack": "C#, .NET",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "uAext"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-12-17",
+      "stack": "Python, Django",
+      "company": "AI Dynamics",
+      "location": "Boston, MA",
+      "id": "oPyZi"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-21",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "vhPiK"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-10",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "qRQcF"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2025-02-08",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "NCNYY"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-03-07",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "Seattle, WA",
+      "id": "3V5O7"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-30",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "IT58q"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-05-21",
+      "stack": "Python, Django",
+      "company": "Virtual Reality Ventures",
+      "location": "Boston, MA",
+      "id": "ca7Wz"
+  },
+  {
+      "nature": "Internship",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-07",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "4gqgH"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-19",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "San Francisco, CA",
+      "id": "3TuWt"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-11-20",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "koYW8"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-04-15",
+      "stack": "JavaScript, React",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "9au73"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-09-05",
+      "stack": "C#, .NET",
+      "company": "Virtual Reality Ventures",
+      "location": "Austin, TX",
+      "id": "vBMRF"
+  },
+  {
+      "nature": "Internship",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2024-10-22",
+      "stack": "JavaScript, React",
+      "company": "Tech Innovations Inc.",
+      "location": "Austin, TX",
+      "id": "IBawX"
+  },
+  {
+      "nature": "Internship",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-10-29",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "San Francisco, CA",
+      "id": "kgixG"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-23",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "Seattle, WA",
+      "id": "hwg1i"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$100,000 - $120,000",
+      "due_date": "2025-04-19",
+      "stack": "C#, .NET",
+      "company": "Quantum Computing Ltd.",
+      "location": "Boston, MA",
+      "id": "T4DFE"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2025-04-10",
+      "stack": "C#, .NET",
+      "company": "Tech Innovations Inc.",
+      "location": "Seattle, WA",
+      "id": "8gcr8"
+  },
+  {
+      "nature": "Part-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-11-09",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "New York, NY",
+      "id": "iW0eR"
+  },
+  {
+      "nature": "Contract",
+      "description": "Develop and maintain web applications using JavaScript and React.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-08-02",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "Austin, TX",
+      "id": "KWgZ9"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Design user interfaces and experiences with a focus on mobile platforms.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-10-23",
+      "stack": "Java, Spring",
+      "company": "Tech Innovations Inc.",
+      "location": "New York, NY",
+      "id": "eoyH1"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-10-06",
+      "stack": "Java, Spring",
+      "company": "Virtual Reality Ventures",
+      "location": "New York, NY",
+      "id": "oeDpT"
+  },
+  {
+      "nature": "Full-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-12-12",
+      "stack": "Swift, UIKit",
+      "company": "Quantum Computing Ltd.",
+      "location": "Austin, TX",
+      "id": "npt0F"
+  },
+  {
+      "nature": "Temporary",
+      "description": "Implement machine learning models for predictive analytics and data processing.",
+      "cost": "$40,000 - $60,000",
+      "due_date": "2025-01-02",
+      "stack": "Java, Spring",
+      "company": "AI Dynamics",
+      "location": "New York, NY",
+      "id": "x7CDp"
+  },
+  {
+      "nature": "Contract",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2024-08-05",
+      "stack": "Java, Spring",
+      "company": "Quantum Computing Ltd.",
+      "location": "New York, NY",
+      "id": "Nbm28"
+  },
+  {
+      "nature": "Internship",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$80,000 - $110,000",
+      "due_date": "2024-11-16",
+      "stack": "Java, Spring",
+      "company": "GreenTech Solutions",
+      "location": "Boston, MA",
+      "id": "47QCo"
+  }]
+  }
