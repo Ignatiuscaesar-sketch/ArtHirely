@@ -6,11 +6,17 @@ import Home from './Components/Header/Home';
 import SignupForm from './Components/Header/SignupForm';
 import LoginForm from './Components/Header/LoginForm';
 import JobList from './Components/Ignatius-Caesar/JobList';
+import SearchBar from './Components/SearchBar/SearchBar';
+import SearchResult from './Components/SearchBar/SearchResult';
+import SearchResultsList from './Components/SearchBar/SearchResultList';
 function App() {
     return (
 
         <Router>
             <div className='App'>
+                <SearchBar />
+                <SearchResult />
+                <SearchResultsList />
                <Header />
                 <Routes>
                     <Route path="/about" element={<About />} />

@@ -1,21 +1,22 @@
+
 import { useState } from "react";
 import { FaSearch } from "react-icons/fa";
 
-import "./SearchBar.css";
+import "./searchBar.css";
 
 export const SearchBar = ({ setResults }) => {
   const [input, setInput] = useState("");
 
   const fetchData = (value) => {
-    fetch("https://jsonplaceholder.typicode.com/users")
+    fetch("http://localhost:3000/jobs")
       .then((response) => response.json())
       .then((json) => {
         const results = json.filter((user) => {
           return (
             value &&
             user &&
-            user.name &&
-            user.name.toLowerCase().includes(value)
+            user.description &&
+            user.description.toLowerCase().includes(value)
           );
         });
         setResults(results);
@@ -38,3 +39,4 @@ export const SearchBar = ({ setResults }) => {
     </div>
   );
 };
+export default SearchBar;

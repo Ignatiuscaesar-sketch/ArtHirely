@@ -1,4 +1,4 @@
-import "./SearchResult.css";
+import "./searchResult.css";
 
 export const SearchResult = ({ result }) => {
   return (
@@ -10,3 +10,4 @@ export const SearchResult = ({ result }) => {
     </div>
   );
 };
+export default SearchResult;
