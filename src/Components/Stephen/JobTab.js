@@ -1,6 +1,6 @@
 import React from "react";
 
-function Tab() {
+function JobTab() {
   return (
     <>
       <div className="main-button-container">
@@ -41,4 +41,4 @@ function Tab() {
   );
 }
 
-export default JobCard;
+export default JobTab;
