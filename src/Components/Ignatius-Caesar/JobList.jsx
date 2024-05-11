@@ -1,21 +1,26 @@
 import React, { useState, useEffect } from 'react';
 import './index.css'; // Ensure you have this CSS file in the same directory
 
-const JobList = (prop) => {
+const JobList = () => {
     const [jobs, setJobs] = useState([]);
     const [loading, setLoading] = useState(true);
-    
 
-    // Mock data to simulate fetched jobs
     useEffect(() => {
-        // Simulate a fetch call
-        setTimeout(() => {
-            setJobs([
-                { id: 1, time: "Full-Time", description: "Develop a full stack application", cost: "$1200", dueDate: "2024-05-30", requiredStack: "React, Node.js", companyName: "OpenAI", location: "San Francisco" },
-                { id: 2, time: "Part-Time", description: "Front-end development for a dashboard", cost: "$800", dueDate: "2024-06-15", requiredStack: "Vue, Firebase", companyName: "Tech Innovations", location: "Remote" }
-            ]);
-            setLoading(false);
-        }, 1000);
+        fetch('/db.json')  // Adjust the path if your db.json is located elsewhere
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                setJobs(data.jobs);  // Assuming your JSON has a top-level key 'jobs'
+                setLoading(false);
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+                setLoading(false); // Optionally handle error state
+            });
     }, []);
 
     if (loading) return <div>Loading jobs...</div>;
@@ -41,9 +46,9 @@ const JobList = (prop) => {
                         <td>{job.time}</td>
                         <td>{job.description}</td>
                         <td>{job.cost}</td>
-                        <td>{job.due_date}</td>
-                        <td>{job.stack}</td>
-                        <td>{job.company}</td>
+                        <td>{job.dueDate}</td>
+                        <td>{job.requiredStack}</td>
+                        <td>{job.companyName}</td>
                         <td>{job.location}</td>
                     </tr>
                 ))}
