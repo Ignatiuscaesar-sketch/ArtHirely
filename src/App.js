@@ -1,25 +1,31 @@
-import React from 'react';
-import './Header.css'; // Assume CSS is already written
 
-function Header() {
+
+import React from 'react';
+import Header from './Components/Header/Header';
+import { BrowserRouter as Router,Routes, Route} from 'react-router-dom';
+import About from './Components/Header/About';
+import Home from './Components/Header/Home';
+import SignupForm from './Components/Header/SignupForm';
+import LoginForm from './Components/Header/LoginForm';
+import JobList from './Components/Ignatius-Caesar/JobList';
+function App() {
     return (
-        <header>
-            <div className="logo">ArtHirely</div>
-            <nav>
-                <ul>
-                    <li>For You</li>
-                    <li>Discover</li>
-                    <li>Hire</li>
-                    <li> Contacts</li>
-                    <li> Contacts</li>
-                </ul>
-            </nav>
-            <div className="actions">
-                <button className="login">Log In</button>
-                <button className="signup">Sign Up</button>
+
+        <Router>
+            <div className='App'>
+               <Header />
+                <Routes>
+                    <Route path="/about" element={<About />} />
+                    <Route path='/' element={<Home />}/>
+                    <Route path="/signup" element={<SignupForm />} />
+                    <Route path="/login" element={<LoginForm />} />
+                    <Route path='/jobs' element={<JobList/>
+                </Routes>
+
             </div>
-        </header>
+        </Router>
+
     );
 }
 
-export default Header;
+export default App;
