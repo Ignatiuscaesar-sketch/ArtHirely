@@ -132,11 +132,11 @@ text-shadow: 2px 2px 4px rgba(227, 222, 222, 0.5);
   gap: 9px;
 }
 .Mission{
- background-color: #464343;
+ background-color: #e0dede;
   border-radius: 20px;
 }
 .Vision{
-  background-color: #464343;
+  background-color: #e0dede;
   border-radius: 20px;
 }
 .Team h1{
@@ -168,7 +168,7 @@ text-shadow: 2px 2px 4px rgba(227, 222, 222, 0.5);
 .Members .Caesar img,
 .Members .Stephen img,
 .Members .Fardowsa img{
-  width: 20%;
+  width: 40%;
   border-radius: 100%;
 
 }
