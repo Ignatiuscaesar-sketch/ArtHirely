@@ -1,3 +1,4 @@
+
 import React from 'react'
 import './Header.css';
 function Home() {
@@ -59,27 +60,27 @@ function Home() {
           <div className='Members'>
           <div className='James'>
             <h2>James Mugo!</h2>
-            <img src='https://images.unsplash.com/photo-1552058544-f2b08422138a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGVyc29ufGVufDB8fDB8fHww' alt='image'/>
+            <img src='https://media.istockphoto.com/id/1723893505/photo/close-up-of-male-hand-writing-on-note-book-with-pen-showing-blank-screen-of-laptop-and.jpg?s=612x612&w=0&k=20&c=un66XrEtofof3Q_d6oZrfcdpfyk9LL4uudneN6s4Xxg=' alt='image'/>
             <p>UX/UI Designer.</p>
           </div>
           <div className='Victor'>
             <h2>Victor Wamui!</h2>
-            <img src='https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1hbnxlbnwwfHwwfHx8MA%3D%3D' alt='image'/>
+            <img src='https://media.istockphoto.com/id/1172618660/photo/few-more-lines-to-be-done.jpg?s=612x612&w=0&k=20&c=jf6CyRrwE5UuX2BUVCdN1dO106zxJQDchnpHONFHdE4=' alt='image'/>
             <p>Program Manager.</p>
           </div>
           <div className='Caesar'>
             <h2>Ignatius Mayaka!</h2>
-            <img src='https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fHww' alt='image'/>
+            <img src='https://media.istockphoto.com/id/1472907632/photo/closeup-image-of-a-woman-working-and-touching-on-laptop-computer-touchpad.jpg?s=612x612&w=0&k=20&c=pgP5mtShhciXLD-jZi4b334YLglS_LrTRX8cGEeX0uk=' alt='image'/>
             <p>Product Designer.</p>
           </div>
           <div className='Stephen'>
             <h2>Stephen Onyango!</h2>
-            <img src='https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWVufGVufDB8fDB8fHww' alt='image'/>
+            <img src='https://media.istockphoto.com/id/534627186/photo/pleasant-man-working-on-the-laptop.jpg?s=612x612&w=0&k=20&c=P1l6uRr2vToyCSV0pUsEBkkqsGD8eYJHNChVf2aui4o=' alt='image'/>
             <p>Graphic Designer.</p>
           </div>
           <div className='Fardowsa'>
             <h2>Fardowsa Gedi!</h2>
-            <img src='https://images.unsplash.com/photo-1623691595244-9467aa22dbc8?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzbGltJTIwZ2lybHxlbnwwfHwwfHx8MA%3D%3D' alt='image'/>
+            <img src='https://media.istockphoto.com/id/1021826988/photo/close-up-of-woman-typing-keyboard-on-laptop-in-coffee-shop-people-and-technology-concept.jpg?s=612x612&w=0&k=20&c=xHatWgRByJOpMvPonsfaIdEaNe7mTP5smbsGTH5xSQc=' alt='image'/>
             <p>Web Developer.</p>
           </div>
           </div>
