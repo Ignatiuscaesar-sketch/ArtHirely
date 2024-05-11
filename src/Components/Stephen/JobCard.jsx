@@ -1,6 +1,6 @@
 import React from "react";
 
-function JobCard() {
+function Tab() {
   return (
     <>
       <div className="main-button-container">
