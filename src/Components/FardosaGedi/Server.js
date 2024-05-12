@@ -3,10 +3,6 @@ import './index.css';
 
 function Server() {
 
-  function handleJobSubmit(e){
-    e.preventDefault();
-  }
-
   function JobForm() {
     const [formData, setFormData] = useState({
         time: '',
@@ -32,7 +28,7 @@ function Server() {
           companyName: formData.companyName,
           location: formData.location
         };
-        console.log(`this is the object ${jobObject}`)
+        console.log(jobObject)
 
         fetch("http://localhost:3000/jobs", {
           method: "POST",
@@ -44,8 +40,8 @@ function Server() {
         .then(res => res.json())
         .then(jobs => {
           console.log(jobs);
+          e.target.reset(); 
         });
-        e.target.reset(); 
     };
 
     const handleChange = (e) => {
@@ -57,7 +53,6 @@ function Server() {
     };
 
     return (
-      <div>
       <form className="formContainer" onSubmit={handleJobSubmit}>
         <h2>Job Posting</h2>
         <label>
@@ -90,9 +85,7 @@ function Server() {
         </label><br />
         <button type="submit">Submit</button>
       </form>
-      </div>
     );
-
   }
 
   return <JobForm />;
