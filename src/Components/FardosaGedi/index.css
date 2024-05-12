@@ -1,20 +1,20 @@
 /* App.css */
-body {
+/*body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
     margin: 0;
     padding: 20px;
     color: #333;
-  }
+  }*/
   
-  .App {
+/*.App {
     max-width: 600px;
     margin: auto;
     background: white;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  }
+  }*/
   
   h2 {
     color: #4A90E2;
@@ -23,16 +23,24 @@ body {
   form {
     display: flex;
     flex-direction: column;
+    width: 600px;
+  }
+
+  .formContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
   }
   
-  label {
-    margin-bottom: 10px;
+  .formContainer form {
+    width: 80%; 
   }
+  
   
   input[type="text"] {
     padding: 8px;
     margin-top: 5px;
-    margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 4px;
   }
