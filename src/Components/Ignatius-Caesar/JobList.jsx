@@ -1,25 +1,31 @@
 import React, { useState, useEffect } from 'react';
 import './index.css'; // Ensure you have this CSS file in the same directory
+import JobTab from './JobTab';
 
 const JobList = () => {
-    const [jobs, setJobs] = useState([]);
+    const [jobs, setJobs] = useState([]); 
     const [loading, setLoading] = useState(true);
 
-    // Mock data to simulate fetched jobs
-    useEffect(() => {
-        // Simulate a fetch call
-        setTimeout(() => {
-            setJobs([
-                { id: 1, time: "Full-Time", description: "Develop a full stack application", cost: "$1200", dueDate: "2024-05-30", requiredStack: "React, Node.js", companyName: "OpenAI", location: "San Francisco" },
-                { id: 2, time: "Part-Time", description: "Front-end development for a dashboard", cost: "$800", dueDate: "2024-06-15", requiredStack: "Vue, Firebase", companyName: "Tech Innovations", location: "Remote" }
-            ]);
-            setLoading(false);
-        }, 1000);
-    }, []);
 
-    if (loading) return <div>Loading jobs...</div>;
+    useEffect(() => {
+        fetch("http://localhost:3000/jobs")  // Adjust the path if your db.json is located elsewhere
+          .then(response => response.json())
+          .then(data => {
+            setJobs(data.jobs);  // Ensure your db.json structure matches
+            setLoading(false);
+          })
+          .catch(error => {
+            console.error('Error fetching data:', error);
+            setLoading(false);
+          });
+
+      }, []);  // Empty dependency array to run only on the first render
+    
+      if (loading) return <div>Loading...</div>;
 
     return (
+        <>
+        <JobTab jobs = {jobs}/>
         <table className="job-table">
             <thead>
                 <tr>
@@ -48,6 +54,8 @@ const JobList = () => {
                 ))}
             </tbody>
         </table>
+        
+        </>
     );
 };
 
