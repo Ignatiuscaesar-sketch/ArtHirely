@@ -4779,6 +4779,16 @@
       "stack": "NHGF",
       "companyName": "Safaricom",
       "location": "Nairobi"
+    },
+    {
+      "id": "d550",
+      "time": "12:00",
+      "description": "Dummy desc ription",
+      "cost": "30,0000",
+      "dueDate": "3-1-2025",
+      "stack": "NKS2",
+      "companyName": "EQUITY",
+      "location": "Mombasa"
     }
   ]
 }

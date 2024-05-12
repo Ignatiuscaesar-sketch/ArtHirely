@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-// import './index.css';
+import './index.css';
 
 function Server() {
 
@@ -57,6 +57,7 @@ function Server() {
     };
 
     return (
+      <div>
       <form className="formContainer" onSubmit={handleJobSubmit}>
         <h2>Job Posting</h2>
         <label>
@@ -89,7 +90,9 @@ function Server() {
         </label><br />
         <button type="submit">Submit</button>
       </form>
+      </div>
     );
+
   }
 
   return <JobForm />;
