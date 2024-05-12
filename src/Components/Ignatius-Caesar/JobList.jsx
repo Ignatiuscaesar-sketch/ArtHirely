@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './index.css'; // Ensure you have this CSS file in the same directory
-import JobTab from './JobTab';
+import JobTab from '../Stephen/JobTab';
 
 const JobList = () => {
     const [jobs, setJobs] = useState([]); 
@@ -11,7 +11,7 @@ const JobList = () => {
         fetch("http://localhost:3000/jobs")  // Adjust the path if your db.json is located elsewhere
           .then(response => response.json())
           .then(data => {
-            setJobs(data.jobs);  // Ensure your db.json structure matches
+            setJobs(data);  // Ensure your db.json structure matches
             setLoading(false);
           })
           .catch(error => {
@@ -22,6 +22,9 @@ const JobList = () => {
       }, []);  // Empty dependency array to run only on the first render
     
       if (loading) return <div>Loading...</div>;
+
+  
+      
 
     return (
         <>
