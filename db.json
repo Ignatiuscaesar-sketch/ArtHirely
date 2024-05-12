@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "time": "Full-time",
+      "description": "Lead the cloud integration using AWS, Azure, or Google Cloud Platform.",
+      "cost": "$30,000 - $50,000",
+      "due_date": "2025-01-13",
+      "stack": "C#, .NET",
+      "company": "GreenTech Solutions",
+      "location": "Austin, TX",
+      "id": "ML8SO"
+    },
+    {
       "time": "Internship",
       "description": "Develop and maintain web applications using JavaScript and React.",
       "cost": "$100,000 - $120,000",
@@ -29,6 +39,16 @@
       "company": "Virtual Reality Ventures",
       "location": "Seattle, WA",
       "id": "homB0"
+    },
+    {
+      "time": "Part-time",
+      "description": "Backend development using Node.js and MongoDB for database management.",
+      "cost": "$70,000 - $90,000",
+      "due_date": "2024-09-14",
+      "stack": "Swift, UIKit",
+      "company": "GreenTech Solutions",
+      "location": "San Francisco, CA",
+      "id": "W26xj"
     },
     {
       "time": "Internship",

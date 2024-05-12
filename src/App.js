@@ -17,13 +17,14 @@ function App() {
         <Router>
             <div className='App'>
                <Header />
-               <JobTab />
-               <JobList />
-               <Server />
-         
                 <Routes>
                     <Route path="/about" element={<About />} />
                     <Route path='/' element={<Home />}/>
+                    <Route path="/signup" element={<SignupForm />} />
+                    <Route path="/login" element={<LoginForm />} />
+                    <Route path='/jobs' element={<JobList/>} />
+                    <Route path= '/jobtab' element={<JobTab/>} />
+                    <Route path='/posts' element ={<Server/>} />
                 </Routes>
             </div>
         </Router>
