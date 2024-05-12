@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./index.css";
+import { Link } from 'react-router-dom';
 
 // import Server from "./Server"
 
@@ -39,6 +40,12 @@ useEffect(() => {
               Internship ({intershipCount})
             </button>
           </div>
+          
+          <div>
+            <button className="button-designs" id="blue-button">
+              <Link to = '/jobposts'>Post Jobs</Link>
+            </button>
+          </div>
         </div>
 
         <div className="button-designs lower-section">
@@ -47,11 +54,6 @@ useEffect(() => {
               <span>{filteredJobs.length}</span> Jobs
             </h6>
             
-          </div>
-          <div>
-            <button className="button-designs" id="blue-button">
-              Post Jobs
-            </button>
           </div>
         </div>
       </div>

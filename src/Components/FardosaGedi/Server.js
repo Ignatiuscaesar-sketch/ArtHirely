@@ -32,8 +32,9 @@ function Server() {
           companyName: formData.companyName,
           location: formData.location
         };
+        console.log(`this is the object ${jobObject}`)
 
-        fetch("http://localhost:4000/jobs", {
+        fetch("http://localhost:3000/jobs", {
           method: "POST",
           headers: {
             "Content-Type": "application/json"
@@ -43,8 +44,8 @@ function Server() {
         .then(res => res.json())
         .then(jobs => {
           console.log(jobs);
-          e.target.reset(); 
         });
+        e.target.reset(); 
     };
 
     const handleChange = (e) => {
