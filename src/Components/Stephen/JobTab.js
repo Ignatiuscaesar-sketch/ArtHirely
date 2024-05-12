@@ -1,12 +1,10 @@
 import React, { useState, useEffect } from "react";
 import "./index.css";
-import JobList from "../Ignatius-Caesar/JobList";
+
 // import Server from "./Server"
 
-function JobTab({jobs}) {
+function JobTab({jobs, handleFilter, filteredJobs}) {
   // Dummy data as I wait for public API to be fetched
-
-  const [filteredJobs, setFilteredJobs] = useState([]);
   const [fullTimeCount, setFullTimeCount] = useState(0);
   const [partTimeCount, setPartTimeCount] = useState(0);
   const [intershipCount, setInternshipCount] = useState(0);
@@ -20,12 +18,8 @@ useEffect(() => {
 }, [jobs]);
 
 //A callback function that triggers the filters here
-function handleFilter(e){
-  const jobType = e.target.id;
-  setFilteredJobs(jobs.filter(job => job.time === jobType));
-  e.target.style.fontWeight = "bold"
-  // e.target.parentNode.style.transition = "width 0.4s ease, left 0.4s ease"
-} 
+
+
   return (
     <>
       <div className="main-button-container">
@@ -61,8 +55,6 @@ function handleFilter(e){
           </div>
         </div>
       </div>
-
-
     </>
   );
 }
