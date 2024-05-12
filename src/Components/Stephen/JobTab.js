@@ -63,15 +63,6 @@ function handleFilter(e){
       </div>
 
 
-      {/* Display filtered jobs */}
-      <JobList jobs = {jobs}/>
-      <ul>
-              {filteredJobs.map(job => (
-                <li key={job.id}>{job.company}</li>
-              ))}
-      </ul>
-
-            {/* <Server />     */}
     </>
   );
 }

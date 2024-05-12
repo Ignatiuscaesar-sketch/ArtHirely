@@ -22,8 +22,6 @@ const JobList = () => {
       }, []);  // Empty dependency array to run only on the first render
     
       if (loading) return <div>Loading...</div>;
-
-  
       
 
     return (
