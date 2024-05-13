@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./index.css";
 import { Link } from 'react-router-dom';
 
-// import Server from "./Server"
+//import JobPosts from "./JobPosts"
 
 function JobTab({jobs, handleFilter, filteredJobs}) {
   // Dummy data as I wait for public API to be fetched
