@@ -1,19 +1,14 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'; 
 import './index.css';
 
-function Server() {
-  function handleSubmit(e){
-    e.preventDefault();
-  }
-
-  function JobForm() {
+  function JobPosts() {
     const [formData, setFormData] = useState({
         time: '',
         description: '',
         cost: '',
-        dueDate: '',
+        due_date: '',
         stack: '',
-        companyName: '',
+        company: '',
         location: ''
     });
 
@@ -26,13 +21,14 @@ function Server() {
           time: formData.time,
           description: formData.description,
           cost: formData.cost,
-          dueDate: formData.dueDate,
+          due_date: formData.due_date,
           stack: formData.stack,
-          companyName: formData.companyName,
+          company: formData.company,
           location: formData.location
         };
 
-        fetch("http://localhost:4000/jobs", {
+        console.log(jobObject)
+        fetch("http://localhost:3000/jobs", {
           method: "POST",
           headers: {
             "Content-Type": "application/json"
@@ -42,7 +38,15 @@ function Server() {
         .then(res => res.json())
         .then(jobs => {
           console.log(jobs);
-          e.target.reset(); 
+          setFormData({
+            time: '',
+            description: '',
+            cost: '',
+            due_date: '',
+            stack: '',
+            company: '',
+            location: ''
+        });
         });
     };
 
@@ -54,13 +58,15 @@ function Server() {
         }));
     };
 
-    return (
+    return ( 
       <form className="formContainer" onSubmit={handleJobSubmit}>
         <h2>Job Posting</h2>
-        <label>
-            Time:
-            <input type="text" name="time" value={formData.time} onChange={handleChange} required />
-        </label><br />
+        <label for="time">Time:</label>
+        <select id="time" name="time" value={formData.time} onChange={handleChange}>
+          <option value="Full-time">Full-Time</option>
+          <option value="Part-time">Part-Time</option>
+          <option value="Internship">Internship</option>
+        </select>
         <label>
             Description:
             <input type="text" name="description" value={formData.description} onChange={handleChange} required />
@@ -71,7 +77,7 @@ function Server() {
         </label><br />
         <label>
             Due Date:
-            <input type="text" name="dueDate" value={formData.dueDate} onChange={handleChange} required />
+            <input type="date" name="due_date" value={formData.due_date} onChange={handleChange} required />
         </label><br />
         <label>
             Stack:
@@ -79,7 +85,7 @@ function Server() {
         </label><br />
         <label>
             Company Name:
-            <input type="text" name="companyName" value={formData.companyName} onChange={handleChange} required />
+            <input type="text" name="company" value={formData.company} onChange={handleChange} required />
         </label><br />
         <label>
             Location:
@@ -87,10 +93,9 @@ function Server() {
         </label><br />
         <button type="submit">Submit</button>
       </form>
+  
     );
   }
 
-  return <JobForm />;
-}
 
-export default Server;
+export default JobPosts;
