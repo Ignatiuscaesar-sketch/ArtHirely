@@ -16,7 +16,6 @@ function Server() {
 
     const handleJobSubmit = (e) => {
         e.preventDefault();
-        console.log(formData);
         alert('Form submitted! Successful');
 
         const jobObject = {
@@ -28,7 +27,7 @@ function Server() {
           companyName: formData.companyName,
           location: formData.location
         };
-        console.log(jobObject)
+       
 
         fetch("http://localhost:3000/jobs", {
           method: "POST",
@@ -36,12 +35,13 @@ function Server() {
             "Content-Type": "application/json"
           },
           body: JSON.stringify(jobObject)
-        })
-        .then(res => res.json())
-        .then(jobs => {
-          console.log(jobs);
-          e.target.reset(); 
-        });
+          })
+          .then(res => res.json())
+          .then(jobs => {
+            console.log(jobs);
+          });
+
+        e.target.reset()
     };
 
     const handleChange = (e) => {
@@ -53,38 +53,33 @@ function Server() {
     };
 
     return (
+      <div id = "formContent">
       <form className="formContainer" onSubmit={handleJobSubmit}>
-        <h2>Job Posting</h2>
-        <label>
-            Time:
-            <input type="text" name="time" value={formData.time} onChange={handleChange} required />
-        </label><br />
-        <label>
-            Description:
-            <input type="text" name="description" value={formData.description} onChange={handleChange} required />
-        </label><br />
-        <label>
-            Cost:
-            <input type="text" name="cost" value={formData.cost} onChange={handleChange} required />
-        </label><br />
-        <label>
-            Due Date:
-            <input type="text" name="dueDate" value={formData.dueDate} onChange={handleChange} required />
-        </label><br />
-        <label>
-            Stack:
-            <input type="text" name="stack" value={formData.stack} onChange={handleChange} required />
-        </label><br />
-        <label>
-            Company Name:
-            <input type="text" name="companyName" value={formData.companyName} onChange={handleChange} required />
-        </label><br />
-        <label>
-            Location:
-            <input type="text" name="location" value={formData.location} onChange={handleChange} required />
-        </label><br />
-        <button type="submit">Submit</button>
+        <h2 id = "formTitle">Job Posting</h2>
+        <label for = "time">Time:</label><br />
+            <input type="text" id ="time" name="time" value={formData.time} onChange={handleChange} required /><br/>
+        
+        <label for = "description"> Description: </label><br />
+            <input type="text" id = "description" name="description" value={formData.description} onChange={handleChange} required /><br/>
+       
+        <label for = "cost"> Cost: </label><br />
+            <input type="text" id = "cost" name="cost" value={formData.cost} onChange={handleChange} required /><br/>
+        
+        <label for = "date"> Due Date: </label><br />
+            <input type="text" id = "date" name="dueDate" value={formData.dueDate} onChange={handleChange} required /><br/>
+        
+        <label for = "stack">Stack: </label><br />
+            <input type="text" name="stack" value={formData.stack} onChange={handleChange} required /><br/>
+
+            <label for = "companyName"> Company Name: </label> <br/>
+            <input type="text" name="companyName" value={formData.companyName} onChange={handleChange} required /><br/>
+        
+        <label for = "location"> Location:  </label><br/>
+            <input type="text" name="location" value={formData.location} onChange={handleChange} required /><br/>
+       
+        <button type="submit">Submit</button><br/>
       </form>
+    </div>
     );
   }
 

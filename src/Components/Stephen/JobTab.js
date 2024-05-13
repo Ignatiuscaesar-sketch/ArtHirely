@@ -23,7 +23,7 @@ useEffect(() => {
 
   return (
     <>
-      <div className="main-button-container">
+      <div id="main-button-container">
         <div className="button-designs first-section">
           <div>
             <button className="button-designs third-button" id="Full-time" onClick={handleFilter}>
@@ -49,14 +49,14 @@ useEffect(() => {
         </div>
 
         <div className="button-designs lower-section">
-          <div>
+        </div>
+      </div>
+      <div id = "jobNumber">
             <h6 className="button-designs" id="filtered-jobs">
-              <span>{filteredJobs.length}</span> Jobs
+              <span>{filteredJobs.length}</span> {jobs.id} Jobs
             </h6>
             
           </div>
-        </div>
-      </div>
     </>
   );
 }

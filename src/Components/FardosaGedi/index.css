@@ -17,6 +17,14 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
   }  */
 
+  #formContent{
+    display: flex;
+    justify-content: center;
+  }
+
+  #formTitle{
+    text-align: center;
+  }
   
   h2 {
     color: #4A90E2;
